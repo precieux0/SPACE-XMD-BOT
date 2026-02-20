@@ -3,8 +3,14 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=33FF00&center=true&vCenter=true&width=910&height=100&lines=𝕊𝔓𝔄ℂ𝔈+𝕏+𝕄𝔇+𝔹𝕆𝕻;Multi+Device+Whatsapp+Bot;Made+By+precieux+Labs" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=50&pause=1000&color=00FF00&center=true&width=910&height=100&lines=SPACE+X+MD+Bot;Multi+Device+WhatsApp+Bot;Powered+by+precieux+Labs" alt="Typing SVG" />
+  </a> 
 </div> 
+
+<div align="center"> 
+  <p><strong> Modern. Powerful. Advanced BOT ¨</strong></p>
+</div>
 
 <div align="center"> 
   <a href="https://github.com/precieux0"> 
@@ -239,6 +245,7 @@ Copyright (c) 2024 precieux Labs. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
