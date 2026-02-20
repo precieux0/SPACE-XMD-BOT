@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://github.com/precieux0"> 
-    <img src="https://github.com/precieux0/SPACE-XMD-BOT/blob/main/assets/bot_image.jpg" alt="𝕊𝔓𝔄ℂ𝔈 𝕏 𝕄𝔇 𝔹𝕆𝕻" height="300"> 
+    <img src="https://github.com/precieux0/SPACE-XMD-BOT/blob/main/assets/bot_image.png" alt="𝕊𝔓𝔄ℂ𝔈 𝕏 𝕄𝔇 𝔹𝕆𝕻" height="300"> 
   </a> 
 </div>
 
@@ -241,3 +241,4 @@ Copyright (c) 2024 precieux Labs. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
