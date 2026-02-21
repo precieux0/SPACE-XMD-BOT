@@ -186,7 +186,7 @@ async function helpCommand(sock, chatId, message) {
 ╚════════════════════════════════════╝`;
 
     try {
-        const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
+        const imagePath = path.join(__dirname, '../assets/bot_image.png');
         
         if (fs.existsSync(imagePath)) {
             const imageBuffer = fs.readFileSync(imagePath);
@@ -226,4 +226,5 @@ async function helpCommand(sock, chatId, message) {
 }
 
 module.exports = helpCommand;
+
 
