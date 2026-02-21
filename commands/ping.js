@@ -29,7 +29,7 @@ async function pingCommand(sock, chatId, message) {
         const uptimeFormatted = formatTime(uptimeInSeconds);
 
         const botInfo = `
-┏━━〔 🤖 𝐊𝐧𝐢𝐠𝐡𝐭𝐁𝐨𝐭-𝐌𝐃 〕━━┓
+┏━━〔 🤖 𝕊𝔓𝔄ℂ𝔈 𝕏 𝕄𝔇 𝔹𝕆𝕻 〕━━┓
 ┃ 🚀 Ping     : ${ping} ms
 ┃ ⏱️ Uptime   : ${uptimeFormatted}
 ┃ 🔖 Version  : v${settings.version}
@@ -45,4 +45,5 @@ async function pingCommand(sock, chatId, message) {
 }
 
 module.exports = pingCommand;
+
 
